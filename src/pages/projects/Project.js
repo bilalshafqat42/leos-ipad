@@ -10,23 +10,21 @@ import ProjectNavigation from "../../components/projectsNavigation/ProjectNaviga
 const Project = () => {
   return (
     <section className="project-section">
-      <div className="container-fluid home-page-topbar">
-        <div className="row">
-          <div className="col">
-            <div className="main-mini-heading-sections">
-              <h1 className="mt-4 mb-2 page-heading-title">
-                <Link to="/">LEOS PROJECTS</Link>
-              </h1>
-              <Link to="/">
-                <img
-                  src={Logo}
-                  alt="Leos International"
-                  width={130}
-                  height={40}
-                  className="mt-3 mb-3"
-                />
-              </Link>
-            </div>
+      <div className="row">
+        <div className="col">
+          <div className="main-mini-heading-sections">
+            <h1 className="mt-4 mb-2 page-heading-title">
+              <Link to="/">LEOS PROJECTS</Link>
+            </h1>
+            <Link to="/">
+              <img
+                src={Logo}
+                alt="Leos International"
+                width={130}
+                height={40}
+                className="mt-3 mb-3"
+              />
+            </Link>
           </div>
         </div>
       </div>
@@ -34,8 +32,7 @@ const Project = () => {
       <div className="row">
         <div className="col">
           {/* <h2 className="mt-5">Properties Page</h2> */}
-          <div className="main-banner-properties-page">
-          </div>
+          <div className="main-banner-properties-page"></div>
         </div>
       </div>
       {/* </div> */}
