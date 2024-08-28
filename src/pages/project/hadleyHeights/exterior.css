@@ -525,10 +525,12 @@ h1.page-heading-title {
   margin: 30px;
 }
 .special-location-image-section {
-  max-width: 600px;
-  min-height: 250px;
+  /* max-width: 1200px;
+  min-height: 400px; */
   /* margin-top: 90px;
   margin-left: 60px; */
+  width: 90vw;
+  height: 80vh;
   margin: 90px auto;
   display: flex;
   justify-content: center;
