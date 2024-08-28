@@ -22,8 +22,8 @@ const WalkThrough = () => {
               <img
                 src={Logo}
                 alt="Leos International"
-                width={98}
-                height={30}
+                width={70}
+                height={21}
                 className="mt-3 mb-3"
               />
             </Link>
