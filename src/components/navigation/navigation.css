@@ -1,0 +1,24 @@
+.bottom-navigation-section {
+  height: 300px;
+  background-color: rgba(35, 35, 35, 0.7);
+  color: #f6f6f6;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.navigation-section {
+}
+
+.bottom-navigation-section-image {
+  margin-top: 30px;
+  padding-bottom: 0px;
+  max-width: 260px;
+}
+img.bottom-navigation-section-image {
+  /* border-radius: 20px; */
+}
+
+.navigation-column-design h3 {
+  margin-top: 20px;
+}

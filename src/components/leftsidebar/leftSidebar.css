@@ -1,0 +1,28 @@
+.left-sidebar-design {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #232323;
+  width: 230px;
+  height: 100vh;
+  display: flex;
+}
+ul.left-sidebar-navigation {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-top: 100px;
+}
+
+ul li {
+  margin-bottom: 30px;
+  background-color: #fff;
+  padding: 20px 40px 20px 40px;
+  min-width: 160px;
+}
+
+ul li a {
+  /* padding: 20px 40px 20px 40px; */
+  color: #232323;
+  width: 100%;
+}

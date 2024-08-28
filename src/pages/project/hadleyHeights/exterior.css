@@ -1,0 +1,837 @@
+.containing {
+  position: absolute;
+  left: 56%;
+  top: 48%;
+  transform: translate(-50%, -50%);
+  width: 1600px;
+  height: 700px;
+  padding: 50px;
+  background-color: #f5f5f5;
+  box-shadow: 0 30px 50px #dbdbdb;
+  overflow-x: hidden;
+}
+.containing-model {
+  position: absolute;
+  left: 56%;
+  top: 48%;
+  transform: translate(-50%, -50%);
+  width: 1690px;
+  height: 700px;
+  /* padding: 50px; */
+  background-color: #f5f5f5;
+  box-shadow: 0 30px 50px #dbdbdb;
+  overflow-x: hidden;
+  z-index: -9;
+}
+.mode-section-page {
+  background-color: #232323;
+}
+.containings {
+  position: absolute;
+  left: 50%;
+  top: 48%;
+  transform: translate(-50%, -50%);
+  width: 1380px;
+  height: 700px;
+  padding: 50px;
+  background-color: #fff;
+  box-shadow: 0 30px 50px #dbdbdb;
+  overflow-x: hidden;
+}
+.containing-3d {
+  position: absolute;
+  left: 56%;
+  top: 48%;
+  transform: translate(-50%, -50%);
+  width: 1600px;
+  height: 700px;
+  /* padding: 50px; */
+  background-color: #f5f5f5;
+  box-shadow: 0 30px 50px #dbdbdb;
+  overflow-x: hidden;
+}
+.exterior-one-slide-one-map-location {
+  background-image: url("../../../assets/images/hadley-heights-map.jpg");
+}
+.exterior-one-slide-one {
+  background-image: url("../../../assets/images/hadley/exterior-images/exterior1.jpg");
+}
+.exterior-one-slide-two {
+  background-image: url("../../../assets/images/hadley/exterior-images/exterior2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.exterior-one-slide-three {
+  background-image: url("../../../assets/images/hadley/exterior-images/exterior3.jpg");
+}
+.exterior-one-slide-four {
+  background-image: url("../../../assets/images/hadley/exterior-images/exterior4.jpg");
+}
+.exterior-one-slide-five-h {
+  background-image: url("../../../assets/images/hadley/exterior-images/exterior5.jpg");
+}
+.exterior-one-slide-six-h {
+  background-image: url("../../../assets/images/hadley/exterior/6.jpg");
+}
+.exterior-one-slide-seven-h {
+  background-image: url("../../../assets/images/hadley/exterior/7.jpg");
+}
+.exterior-one-slide-eight-h {
+  background-image: url("../../../assets/images/hadley/exterior/8.jpg");
+}
+.exterior-one-slide-nine-h {
+  background-image: url("../../../assets/images/hadley/exterior/9.jpg");
+}
+.exterior-one-slide-ten-h {
+  background-image: url("../../../assets/images/hadley/exterior/10.jpg");
+}
+.exterior-one-slide-eleven-h {
+  background-image: url("../../../assets/images/hadley/exterior/11.jpg");
+}
+/* jvc images  */
+.jvc-one-slide-images-one {
+  background-image: url("../../../assets/images/hadley/jvc/1.jpg");
+}
+.jvc-one-slide-images-two {
+  background-image: url("../../../assets/images/hadley/jvc/2.jpg");
+}
+.jvc-one-slide-images-three {
+  background-image: url("../../../assets/images/hadley/jvc/3.jpg");
+}
+/* interior imaegs starts here  */
+.interior-one-slide-one {
+  background-image: url("../../../assets/images/hadley/interior/1-kitchen.jpg");
+}
+.interior-one-slide-two {
+  background-image: url("../../../assets/images/hadley/interior/2-living-w-dining-area.jpg");
+}
+.interior-one-slide-three {
+  background-image: url("../../../assets/images/hadley/interior/3-living-room.jpg");
+}
+.interior-one-slide-four {
+  background-image: url("../../../assets/images/hadley/interior/4-bedroom.jpg");
+}
+.interior-one-slide-five {
+  background-image: url("../../../assets/images/hadley/interior/5-bathroom.jpg");
+}
+.interior-one-slide-six {
+  background-image: url("../../../assets/images/hadley/interior/6-children-bedroom.jpg");
+}
+.interior-one-slide-seven {
+  background-image: url("../../../assets/images/hadley/interior/7-study-room.jpg");
+}
+.interior-one-slide-eight {
+  background-image: url("../../../assets/images/hadley/interior/8-petroom.jpg");
+}
+.interior-one-slide-nine {
+  background-image: url("../../../assets/images/hadley/interior/9-gym.jpg");
+}
+.interior-one-slide-ten {
+  background-image: url("../../../assets/images/hadley/interior/10-terrace.jpg");
+}
+.interior-one-slide-eleven {
+  background-image: url("../../../assets/images/hadley/interior/11-elevator-hallway.jpg");
+}
+
+.exterior-one-slide-seven {
+  background-image: url("../../../assets/images/hadley/dusk/dusk.jpg");
+}
+
+.exterior-one-slide-eight {
+  background-image: url("../../../assets/images/hadley/entrance/entrance1.jpg");
+}
+
+.exterior-one-slide-nine {
+  background-image: url("../../../assets/images/hadley/entrance/entrance2.jpg");
+}
+
+.exterior-one-slide-ten {
+  background-image: url("../../../assets/images/hadley/facade/facade1.jpg");
+}
+
+.exterior-one-slide-eleven {
+  background-image: url("../../../assets/images/hadley/facade/facade2.jpg");
+}
+/* amenities images started here  */
+.exterior-one-slide-twelve {
+  background-image: url("../../../assets/images/hadley/amenities/1-main-lobby.jpg");
+}
+.exterior-one-slide-thirteen {
+  background-image: url("../../../assets/images/hadley/amenities/2-lobby.jpg");
+}
+.exterior-one-slide-fourteen {
+  background-image: url("../../../assets/images/hadley/amenities/3-coworking-space.jpg");
+}
+.exterior-one-slide-fifteen {
+  background-image: url("../../../assets/images/hadley/amenities/4-clubhouse.jpg");
+}
+.exterior-one-slide-sixteen {
+  background-image: url("../../../assets/images/hadley/amenities/5-gymnasium.jpg");
+}
+.exterior-one-slide-seventeen {
+  background-image: url("../../../assets/images/hadley/amenities/6-swiming-pool.jpg");
+}
+.exterior-one-slide-eighteen {
+  background-image: url("../../../assets/images/hadley/amenities/7-japanese-garden.jpg");
+}
+.exterior-one-slide-ninteen {
+  background-image: url("../../../assets/images/hadley/amenities/8-outdoor-cinema.jpg");
+}
+.exterior-one-slide-twenty {
+  background-image: url("../../../assets/images/hadley/amenities/9-vertical-farm.jpg");
+}
+.exterior-one-slide-twenty-one {
+  background-image: url("../../../assets/images/hadley/amenities/10-boxing-academy.jpg");
+}
+.exterior-one-slide-twenty-two {
+  background-image: url("../../../assets/images/hadley/amenities/11-dance-studio.jpg");
+}
+.exterior-one-slide-twenty-three {
+  background-image: url("../../../assets/images/hadley/amenities/12-art-academy.jpg");
+}
+.exterior-one-slide-twenty-four {
+  background-image: url("../../../assets/images/hadley/amenities/13-kids-area.jpg");
+}
+.exterior-one-slide-twenty-five {
+  background-image: url("../../../assets/images/hadley/amenities/14-ai-supermarket.jpg");
+}
+.exterior-one-slide-twenty-six {
+  background-image: url("../../../assets/images/hadley/amenities/15-sauna.jpg");
+}
+.exterior-one-slide-twenty-seven {
+  background-image: url("../../../assets/images/hadley/amenities/16-tea-house.jpg");
+}
+.exterior-one-slide-twenty-eight {
+  background-image: url("../../../assets/images/hadley/amenities/17-pizza.jpg");
+}
+.exterior-one-slide-twenty-nine {
+  background-image: url("../../../assets/images/hadley/amenities/18-bar-be-que.jpg");
+}
+.exterior-one-slide-thirty {
+  background-image: url("../../../assets/images/hadley/amenities/19-cafe.jpg");
+}
+.exterior-one-slide-thirty-four {
+  background-image: url("../../../assets/images/hadley/amenities/23.jpg");
+}
+.exterior-one-slide-floor-one {
+  background-image: url("../../../assets/images/hadley/floors/Floor1.jpg");
+}
+.exterior-one-slide-floor-two {
+  background-image: url("../../../assets/images/hadley/floors/Floor-02.jpg");
+}
+.exterior-one-slide-floor-three {
+  background-image: url("../../../assets/images/hadley/floors/Floor-03.jpg");
+}
+.exterior-one-slide-floor-four {
+  background-image: url("../../../assets/images/hadley/floors/Floor-04.jpg");
+}
+.exterior-one-slide-floor-five {
+  background-image: url("../../../assets/images/hadley/floors/Floor-05.jpg");
+}
+.exterior-one-slide-floor-six {
+  background-image: url("../../../assets/images/hadley/floors/Floor-06.jpg");
+}
+.exterior-one-slide-floor-seven {
+  background-image: url("../../../assets/images/hadley/floors/Floor-07.jpg");
+}
+.exterior-one-slide-floor-eight {
+  background-image: url("../../../assets/images/hadley/floors/Floor-08.jpg");
+}
+.exterior-one-slide-floor-nine {
+  background-image: url("../../../assets/images/hadley/floors/Floor-09.jpg");
+}
+.exterior-one-slide-floor-ten {
+  background-image: url("../../../assets/images/hadley/floors/Floor-10.jpg");
+}
+.exterior-one-slide-floor-eleven {
+  background-image: url("../../../assets/images/hadley/floors/Floor-11.jpg");
+}
+.exterior-one-slide-floor-twelve {
+  background-image: url("../../../assets/images/hadley/floors/Floor-12.jpg");
+}
+.exterior-one-slide-floor-thirteen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-13.jpg");
+}
+.exterior-one-slide-floor-fourteen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-14.jpg");
+}
+.exterior-one-slide-floor-fifteen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-15.jpg");
+}
+.exterior-one-slide-floor-sixteen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-16.jpg");
+}
+.exterior-one-slide-floor-seventeen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-17.jpg");
+}
+.exterior-one-slide-floor-eighteen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-18.jpg");
+}
+.exterior-one-slide-floor-ninteen {
+  background-image: url("../../../assets/images/hadley/floors/Floor-19.jpg");
+}
+.exterior-one-slide-floor-twenty {
+  background-image: url("../../../assets/images/hadley/floors/Floor-20.jpg");
+}
+.exterior-one-slide-floor-twenty-one {
+  background-image: url("../../../assets/images/hadley/floors/Floor-21.jpg");
+}
+.exterior-one-slide-floor-twenty-two {
+  background-image: url("../../../assets/images/hadley/floors/Floor-22.jpg");
+}
+.exterior-one-slide-floor-twenty-three {
+  background-image: url("../../../assets/images/hadley/floors/building.jpg");
+}
+.exterior-one-slide-one-unit-1 {
+  background-image: url("../../../assets/images/hadley/3d/1-Studio.jpg");
+}
+.exterior-one-slide-one-unit-2 {
+  background-image: url("../../../assets/images/hadley/3d/2-1-Bedroom.jpg");
+}
+.exterior-one-slide-one-unit-3 {
+  background-image: url("../../../assets/images/hadley/3d/3-Customisable-with-study-&-gym.jpg");
+}
+.exterior-one-slide-one-unit-4 {
+  background-image: url("../../../assets/images/hadley/3d/4-Customisable-with-study-&-gym_2.jpg");
+}
+.exterior-one-slide-one-unit-5 {
+  background-image: url("../../../assets/images/hadley/3d/5-bed-with-movie-room.jpg");
+}
+.exterior-one-slide-one-unit-6 {
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit06.jpg");
+}
+.exterior-one-slide-one-unit-7 {
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit07.jpg");
+}
+.exterior-one-slide-one-unit-8 {
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit08.jpg");
+}
+.exterior-one-slide-one-unit-9 {
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit09.jpg");
+}
+.exterior-one-slide-one-unit-10 {
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit10.jpg");
+}
+.exterior-one-slide-one-unit-3d-1 {
+  background-image: url("../../../assets/images/hadley/3d/1-Studio.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.exterior-one-slide-one-unit-3d-2 {
+  background-image: url("../../../assets/images/hadley/3d/2-1-Bedroom.jpg");
+}
+.exterior-one-slide-one-unit-3d-3 {
+  background-image: url("../../../assets/images/hadley/3d/3-Customisable-with-study-&-gym.jpg");
+}
+.exterior-one-slide-one-unit-3d-4 {
+  background-image: url("../../../assets/images/hadley/3d/4-Customisable-with-study-&-gym_2.jpg");
+}
+.exterior-one-slide-one-unit-3d-5 {
+  background-image: url("../../../assets/images/hadley/3d/5-bed-with-movie-room.jpg");
+}
+
+/* amenities images ends here  */
+#slide {
+  width: max-content;
+  margin-top: 50px;
+}
+.items {
+  width: 200px;
+  height: 300px;
+  background-position: 50% 50%;
+  display: inline-block;
+  /* transition: 0.5s; */
+  background-size: cover;
+  position: absolute;
+  z-index: 1;
+  /* top: 75%; */
+  top: 0;
+  background-color: #fff;
+  transform: translate(0, -50%);
+  border-radius: 20px;
+  /* box-shadow: 0 30px 50px #505050; */
+}
+.items:nth-child(1),
+.items:nth-child(2) {
+  left: 0;
+  top: 0;
+  transform: translate(0, 0);
+  border-radius: 0;
+  width: 100%;
+  height: 100%;
+  min-height: 700px;
+  box-shadow: none;
+  z-index: 9;
+}
+.items:nth-child(3) {
+  left: 65%;
+}
+.items:nth-child(4) {
+  left: calc(50% + 460px);
+}
+.items:nth-child(5) {
+  left: calc(50% + 680px);
+}
+.items:nth-child(n + 6) {
+  left: calc(50% + 660px);
+  opacity: 0;
+}
+.items .content {
+  position: absolute;
+  top: 50%;
+  left: 100px;
+  width: 350px;
+  text-align: left;
+  padding: 0;
+  color: #eee;
+  transform: translate(0, -50%);
+  display: none;
+  font-family: system-ui;
+}
+.items:nth-child(2) .content {
+  display: block;
+  z-index: 11111;
+}
+.items .name {
+  font-size: 40px;
+  line-height: 40px;
+  font-weight: bold;
+  opacity: 0;
+  animation: showcontent 1s ease-in-out 1 forwards;
+  text-shadow: 0 0 10px #232323;
+  text-transform: uppercase;
+}
+.items .des {
+  margin: 20px 0;
+  opacity: 0;
+  animation: showcontent 1s ease-in-out 0.3s 1 forwards;
+  text-shadow: 0 0 10px #232323;
+}
+.items button {
+  padding: 10px 20px;
+  border: none;
+  opacity: 0;
+  animation: showcontent 1s ease-in-out 0.6s 1 forwards;
+}
+@keyframes showcontent {
+  from {
+    opacity: 0;
+    transform: translate(0, 100px);
+    filter: blur(33px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(0, 0);
+    filter: blur(0);
+  }
+}
+.buttons {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: 222222;
+  text-align: left;
+  width: 100%;
+}
+.buttons button {
+  width: 70px;
+  height: 70px;
+  border: 0px solid #555;
+  transition: 0.5s;
+}
+.buttons button:hover {
+  background-color: #232323;
+  color: #fff;
+}
+
+.main-mini-heading-section {
+  background-color: #232323;
+  color: #fff;
+  padding: 0 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* margin-right: -100px; */
+  /* padding-right: 30px; */
+  overflow-x: hidden;
+  width: 100%;
+  height: 72px;
+  position: fixed;
+  z-index: 9;
+}
+
+h1.page-heading-title {
+  font-size: 30px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.units-boxes-design {
+  /* background-color: #fff; */
+  padding: 5px;
+  text-align: center;
+}
+
+.units-boxes-design a {
+  padding: 10px 15px !important;
+}
+.units-buttons-design {
+  margin-bottom: 2px !important;
+}
+/*
+#slides .no-thumbs {
+  display: none; 
+}
+*/
+.floor-plans-banners .content {
+  padding: 40px;
+  background-color: #232323;
+  min-width: 400px;
+}
+.floor-plans-banners .items button {
+  background-color: #c4a564;
+  color: #fff;
+}
+.units-boxes {
+  width: 100%;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+}
+.red-bg {
+  background-color: red;
+}
+.red-bg a {
+  pointer-events: none;
+}
+.green-bg {
+  background-color: green;
+}
+.white-bg {
+  background-color: white;
+}
+.units-page-section-design {
+  background-color: #fff;
+}
+.units-section-design {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  height: 100vh;
+  margin: 30px;
+}
+.special-location-image-section {
+  max-width: 1800px;
+  min-height: 720px;
+  margin-top: 90px;
+  margin-left: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  background-image: url("../../../assets/images/hadley-heights-map.jpg");
+  background-color: #232323;
+}
+.single-unit-page-images-section {
+  height: 830px;
+  min-height: 750px;
+}
+.unit-description-section {
+  /* margin-top: 50px; */
+
+  padding: 40px 80px;
+  background-color: #232323;
+  color: #fff;
+}
+.unit-descripton-section-heading {
+  font-size: 30px;
+  font-weight: 300;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.unit-description-section-text {
+  font-size: 14px;
+  font-weight: 300;
+  text-align: left;
+}
+.unit-description-section-block-list {
+  font-size: 12px;
+  font-weight: 300;
+  text-align: left;
+  line-height: 30px;
+  width: 100%;
+}
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border: 1px solid #565656;
+  padding: 10px;
+}
+.green-box {
+  background-color: green;
+}
+.red-box {
+  background-color: red;
+  pointer-events: none;
+}
+th {
+  min-width: 200px;
+}
+.containing-full-width {
+  min-height: 500px;
+  margin-top: 30px;
+}
+.youtube-embed-section {
+  min-height: 720px;
+  min-width: 100%;
+}
+@media only screen and (max-width: 1800px) and (min-width: 1600px) {
+  .containing {
+    width: 1400px;
+    height: 650px;
+    top: 49%;
+  }
+  .containings {
+    width: 1200px;
+    height: 650px;
+  }
+}
+@media only screen and (max-width: 1600px) and (min-width: 1200px) {
+  .items:nth-child(1),
+  .items:nth-child(2) {
+    max-width: 1050px;
+    min-height: 550px;
+    max-height: 400px;
+    left: 0;
+  }
+  .containings {
+    max-width: 850px;
+    max-height: 550px;
+    background-color: transparent;
+    z-index: -999999 !important;
+    left: 50%;
+  }
+  .containings .items:nth-child(1),
+  .items:nth-child(2) {
+    max-width: 850px;
+  }
+  .items .content {
+    top: 45%;
+    left: 0%;
+  }
+  .items .name {
+    font-size: 30px;
+  }
+  .containings .items .content {
+    padding-left: 50px;
+  }
+  .containing-full-width {
+    min-height: 550px;
+    max-height: 550px;
+  }
+  .containing .hadley-heights-main .items:nth-child(1),
+  .items:nth-child(2) {
+    max-width: 1050px;
+    min-height: 550px;
+    max-height: 400px;
+    left: 0;
+  }
+  .hadley-heights-main .items .content {
+    left: 100px;
+  }
+  .containing {
+    max-width: 1050px;
+    max-height: 550px;
+    background-color: transparent;
+    z-index: -999999 !important;
+    left: 59%;
+  }
+  .special-location-image-section {
+    max-width: 1250px;
+    max-height: 550px;
+    min-height: 520px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: transparent;
+  }
+}
+@media only screen and (max-width: 1200px) and (min-width: 990px) {
+  .containing {
+    background-color: transparent;
+    width: 800px;
+    height: 530px;
+    overflow: hidden;
+    left: 61%;
+    top: 49%;
+  }
+  .items:nth-child(1),
+  .items:nth-child(2) {
+    left: 0%;
+    top: 0%;
+  }
+  /* .items { */
+  .items.floor-plans {
+    height: 0px !important;
+    background-position: 80% !important;
+  }
+  .left-navigation-menu {
+    padding-top: 135px !important;
+  }
+  .special-location-image-section {
+    max-width: 1000px;
+    min-width: 990px;
+    max-height: 520px;
+    min-height: 510px;
+    margin-left: 30px;
+    margin-top: 45px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #fff;
+  }
+  .containings {
+    width: 550px;
+    height: 510px;
+    background-color: #fff;
+  }
+
+  .items:nth-child(1),
+  .items:nth-child(2) {
+    min-height: 500px !important;
+  }
+  .floor-plans-banners .content {
+    display: none !important;
+  }
+  .containing-full-width {
+    width: 1000px;
+    height: 580px;
+    overflow: hidden;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
+  .unit-description-section {
+    margin-top: 20px;
+    padding: 20px 30px;
+  }
+  .unit-images-left-side {
+    width: 600px;
+    height: 600px;
+  }
+  .single-unit-page-images-section {
+    overflow: hidden;
+  }
+  img.single-unit-page-images-section {
+    margin-top: -100px;
+  }
+  .containing-full-width {
+    min-height: 500px;
+    margin-top: 30px;
+  }
+  .youtube-embed-section {
+    max-height: 510px;
+    min-height: 500px;
+    min-width: 100%;
+  }
+}
+@media only screen and (max-width: 980px) and (min-width: 768px) {
+  .containing {
+    background-color: transparent;
+    width: 560px;
+    height: 800px;
+    overflow: hidden;
+    left: 62%;
+    top: 49%;
+  }
+  .containings {
+    width: 400px;
+    height: 700px;
+    z-index: -999999;
+  }
+  .items:nth-child(1),
+  .items:nth-child(2) {
+    left: 0%;
+    top: 0%;
+    /* min-height: 870px; */
+  }
+  .units-section-sidebars {
+    max-width: 160px !important;
+    overflow-x: hidden;
+  }
+  .units-section-sidebars .col-6 {
+    max-width: 85% !important;
+    width: 80% !important;
+  }
+  .units-section-sidebars .mini-navigation-bar-left a {
+    max-width: 100%;
+    padding-right: 20px;
+  }
+  .right-navigation-menu .units-section-sidebars {
+    margin-right: 20px;
+  }
+  .items {
+    height: 0px !important;
+  }
+  .left-navigation-menu {
+    width: 200px !important;
+    padding-left: 3px !important;
+    padding-top: 150px !important;
+  }
+  .mini-navigation-bar-left a {
+    padding-left: 5px !important;
+  }
+  .special-location-image-section {
+    max-width: 750px;
+    min-width: 740px;
+    max-height: 820px;
+    min-height: 810px;
+    margin-left: 30px;
+    margin-top: 45px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .unit-description-section {
+    padding: 20px 20px;
+  }
+  .single-unit-page-images-section {
+    overflow: hidden;
+  }
+  img.single-unit-page-images-section {
+    margin-top: -100px;
+    margin-left: -150px;
+  }
+  th {
+    min-width: 90px;
+  }
+  .youtube-embed-section {
+    max-height: 610px;
+    min-height: 600px;
+    min-width: 100%;
+  }
+
+  .special-location-image-section {
+    max-width: 750px !important;
+    min-width: 600px !important;
+    max-height: 560px !important;
+    min-height: 550px !important;
+    margin-left: 30px !important;
+    margin-top: 45px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #fff;
+  }
+  .floor-plans-banners .content {
+    display: none !important;
+  }
+}

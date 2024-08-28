@@ -1,0 +1,117 @@
+.wheybridge-unit-plans-slide-ones {
+  background-image: url("../../../../assets/images/wey2/2d/1br-01.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-twos {
+  background-image: url("../../../../assets/images/wey2/2d/1br-02.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-threes {
+  background-image: url("../../../../assets/images/wey2/2d/1br-03.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-fours {
+  background-image: url("../../../../assets/images/wey2/2d/1br-04.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-fives {
+  background-image: url("../../../../assets/images/wey2/2d/1br-5.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-sixs {
+  background-image: url("../../../../assets/images/wey2/2d/1br-6.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-sevens {
+  background-image: url("../../../../assets/images/wey2/2d/1br-7.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-eights {
+  background-image: url("../../../../assets/images/wey2/2d/3br.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-nines {
+  background-image: url("../../../../assets/images/wey2/2d/studio-1.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-tens {
+  background-image: url("../../../../assets/images/wey2/2d/studio-2.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-elevens {
+  background-image: url("../../../../assets/images/wey2/2d/studio-3.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.wheybridge-unit-plans-slide-twelves {
+  background-image: url("../../../../assets/images/wey2/2d/studio-4.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.units-plan-content-design {
+  position: absolute;
+  top: 50%;
+  left: 100px;
+  width: 300px;
+  text-align: left;
+  padding: 0;
+  color: #eee;
+  transform: translate(0, -50%);
+  display: none;
+  font-family: system-ui;
+}
+.items:nth-child(2) .units-plan-content-design {
+  display: block;
+  z-index: 11111;
+}
+.wheybridge-item .units-plan-content-design {
+  padding: 40px;
+  background-color: #232323;
+  min-width: 350px;
+}

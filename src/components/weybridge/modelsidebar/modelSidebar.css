@@ -1,0 +1,36 @@
+.bedroom-model-sidebar {
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-end; */
+  min-height: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #232323;
+  width: 230px;
+  height: 100vh;
+  display: flex;
+  padding-top: 100px;
+  z-index: -9999;
+}
+.bedroom-model-sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  min-height: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #232323;
+  width: 230px;
+  height: 100vh;
+  display: flex;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  overflow-y: scroll;
+  z-index: -9;
+}
+h3.one-bedroom-model{
+    padding-left: 20px;
+    margin-bottom: 20px;
+}

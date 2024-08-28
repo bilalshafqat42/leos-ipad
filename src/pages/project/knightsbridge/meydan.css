@@ -1,0 +1,244 @@
+.meydan-exterior-one-slide-one {
+  background-image: url("../../../assets/images/meydaan/exteriors/Villa-B-Front.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-exterior-one-slide-two {
+  background-image: url("../../../assets/images/meydaan/exteriors/Villa-B-Back.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-exterior-one-slide-three {
+  background-image: url("../../../assets/images/meydaan/exteriors/Villa-A-Front.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-exterior-one-slide-four {
+  background-image: url("../../../assets/images/meydaan/exteriors/Villa-A-Back.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-exterior-one-slide-five {
+  background-image: url("../../../assets/images/meydaan/exteriors/TH-Front.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-exterior-one-slide-six {
+  background-image: url("../../../assets/images/meydaan/exteriors/TH-Back.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* interior  */
+
+.meydan-interior-one-slide-one {
+  background-image: url("../../../assets/images/meydaan/interiors/1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-interior-one-slide-two {
+  background-image: url("../../../assets/images/meydaan/interiors/2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-interior-one-slide-three {
+  background-image: url("../../../assets/images/meydaan/interiors/3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-interior-one-slide-four {
+  background-image: url("../../../assets/images/meydaan/interiors/4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-interior-one-slide-five {
+  background-image: url("../../../assets/images/meydaan/interiors/5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-interior-one-slide-six {
+  background-image: url("../../../assets/images/meydaan/interiors/6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-interior-one-slide-seven {
+  background-image: url("../../../assets/images/meydaan/interiors/7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* amenities  */
+
+.meydan-amenities-one-slide-one {
+  background-image: url("../../../assets/images/meydaan/amenities/2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-amenities-one-slide-two {
+  background-image: url("../../../assets/images/meydaan/amenities/3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.meydan-amenities-one-slide-three {
+  background-image: url("../../../assets/images/meydaan/amenities/4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* location  */
+.knightsbridge-special-location-image-sectionss {
+  max-width: 100%;
+  min-height: 80vh;
+  /* margin-top: 30px;
+  margin-left: 60px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.knightsbridge-special-location-images-sections-inner {
+  width: 90%;
+  height: 75vh;
+  background-image: url("../../../assets/images/meydaan/map-v3.jpg");
+  background-color: transparent;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* floor plans  */
+
+.knightsbridge-unit-plans-slide-ones {
+  background-image: url("../../../assets/images/meydaan/floorplans/Villa-A/villa-a-v3.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-oness {
+  background-image: url("../../../assets/images/meydaan/floorplans/Villa-A/5beds.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-twos {
+  background-image: url("../../../assets/images/meydaan/floorplans/Villa-B/villa-b-v2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-twoss {
+  background-image: url("../../../assets/images/meydaan/floorplans/Villa-B/6beds.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-threes {
+  background-image: url("../../../assets/images/meydaan/floorplans/TH/A/E003-TH-A.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-threess {
+  background-image: url("../../../assets/images/meydaan/floorplans/bird-view-map/4beds.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+
+.knightsbridge-unit-plans-slide-fours {
+  background-image: url("../../../assets/images/meydaan/floorplans/TH/A2/TH-A2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-fourss {
+  background-image: url("../../../assets/images/meydaan/floorplans/bird-view-map/4beds.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-fives {
+  background-image: url("../../../assets/images/meydaan/floorplans/TH/A3/TH-A3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+.knightsbridge-unit-plans-slide-fivess {
+  background-image: url("../../../assets/images/meydaan/floorplans/bird-view-map/4beds.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+h4.bottom-navigation-itemss-new {
+  margin: 0 !important;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: left;
+  letter-spacing: 1px;
+  color: #232323;
+}
+
+/* dubai map  */
+.knightsbridge-map-one-slide {
+  background-image: url("../../../assets/images/meydaan/map-v3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+/* dubai district map  */
+.knightsbridge-district-map-one-slide {
+  background-image: url("../../../assets/images/meydaan/meydan-map-d-2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}
+/* dubai cluster map  */
+.knightsbridge-cluster-map-one-slide {
+  background-image: url("../../../assets/images/meydaan/cluster-map.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  min-height: 650px !important;
+}

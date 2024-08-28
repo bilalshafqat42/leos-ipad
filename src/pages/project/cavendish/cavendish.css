@@ -1,0 +1,561 @@
+.cavendish-exterior-one-slide-one {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/exterior/exterior1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-exterior-one-slide-two {
+  background-image: url("../../../assets/images/cavendish/exterior/exterior2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #fff;
+}
+.cavendish-exterior-one-slide-three {
+  background-image: url("../../../assets/images/cavendish/exterior/exterior3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-exterior-one-slide-four {
+  background-image: url("../../../assets/images/cavendish/exterior/exterior4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-exterior-one-slide-five {
+  background-image: url("../../../assets/images/cavendish/exterior/exterior5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-exterior-one-slide-six {
+  background-image: url("../../../assets/images/cavendish/exterior/exterior6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cavendish-interior-one-slide-ones {
+  background-image: url("../../../assets/images/cavendish/interior/interior1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-twos {
+  background-image: url("../../../assets/images/cavendish/interior/interior10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-threes {
+  background-image: url("../../../assets/images/cavendish/interior/interior3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-fours {
+  background-image: url("../../../assets/images/cavendish/interior/interior11.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-five {
+  background-image: url("../../../assets/images/cavendish/interior/interior12.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-twelve {
+  background-image: url("../../../assets/images/cavendish/interior/10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-six {
+  background-image: url("../../../assets/images/cavendish/interior/interior04.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-seven {
+  background-image: url("../../../assets/images/cavendish/interior/interior7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-eight {
+  background-image: url("../../../assets/images/cavendish/interior/interior8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-interior-one-slide-nine {
+  background-image: url("../../../assets/images/cavendish/interior/18.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-amenities-one-slide-one {
+  background-image: url("../../../assets/images/cavendish/amenities/1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-two {
+  background-image: url("../../../assets/images/cavendish/amenities/2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-three {
+  background-image: url("../../../assets/images/cavendish/amenities/3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-four {
+  background-image: url("../../../assets/images/cavendish/amenities/4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-five {
+  background-image: url("../../../assets/images/cavendish/amenities/5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-six {
+  background-image: url("../../../assets/images/cavendish/amenities/6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-seven {
+  background-image: url("../../../assets/images/cavendish/amenities/7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-eight {
+  background-image: url("../../../assets/images/cavendish/amenities/8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-nine {
+  background-image: url("../../../assets/images/cavendish/amenities/9.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-ten {
+  background-image: url("../../../assets/images/cavendish/amenities/10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-eleven {
+  background-image: url("../../../assets/images/cavendish/amenities/11.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-twelve {
+  background-image: url("../../../assets/images/cavendish/amenities/12.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-thirteen {
+  background-image: url("../../../assets/images/cavendish/amenities/13.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-fourteen {
+  background-image: url("../../../assets/images/cavendish/amenities/14.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-fifteen {
+  background-image: url("../../../assets/images/cavendish/amenities/15.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-sixteen {
+  background-image: url("../../../assets/images/cavendish/amenities/16.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-seventeen {
+  background-image: url("../../../assets/images/cavendish/amenities/ground-floor.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-eighteen {
+  background-image: url("../../../assets/images/cavendish/amenities/first-floor.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+.cavendish-amenities-one-slide-ninteen {
+  background-image: url("../../../assets/images/cavendish/amenities/rooftop.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 650px !important;
+}
+
+.amenities-exterior-one-slide-one {
+  background-image: url("../../../assets/images/wey/exterior/15.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-two {
+  background-image: url("../../../assets/images/wey/amenities/2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-three {
+  background-image: url("../../../assets/images/wey/amenities/3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-four {
+  background-image: url("../../../assets/images/wey/amenities/4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-five {
+  background-image: url("../../../assets/images/wey/amenities/5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-six {
+  background-image: url("../../../assets/images/wey/amenities/6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-seven {
+  background-image: url("../../../assets/images/wey/amenities/7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-eight {
+  background-image: url("../../../assets/images/wey/amenities/8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-nine {
+  background-image: url("../../../assets/images/wey/amenities/9.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-ten {
+  background-image: url("../../../assets/images/wey/amenities/10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-eleven {
+  background-image: url("../../../assets/images/wey/amenities/11.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-twelve {
+  background-image: url("../../../assets/images/wey/amenities/12.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-thirteen {
+  background-image: url("../../../assets/images/wey/amenities/13.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-fourteen {
+  background-image: url("../../../assets/images/wey/amenities/14.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-sixteen {
+  background-image: url("../../../assets/images/wey/amenities/16.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-seventeen {
+  background-image: url("../../../assets/images/wey/amenities/17.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-ninteen {
+  background-image: url("../../../assets/images/wey/amenities/19.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.amenities-exterior-one-slide-twenty {
+  background-image: url("../../../assets/images/wey/amenities/20.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .special-location-image-section {
+    max-width: 1600px;
+    min-height: 650px;
+  } */
+
+.whey-special-location-image-section {
+  max-width: 1800px;
+  min-height: 680px;
+  margin: 90px auto 0 auto;
+  /* margin-left: 60px; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center; */
+  background-image: url("../../../assets/images/wey/weybridge-garden-map.jpg");
+  background-color: #232323;
+  background-size: cover;
+  background-position: bottom;
+  display: flex;
+  justify-self: center;
+  align-self: center;
+}
+
+.wheybridge-floor-plans-slide-one {
+  background-image: url("../../../assets/images/wey/2d/1.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-one {
+  background-image: url("../../../assets/images/wey/lifestyle/1.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-two {
+  background-image: url("../../../assets/images/wey/lifestyle/2.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-three {
+  background-image: url("../../../assets/images/wey/lifestyle/3.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-four {
+  background-image: url("../../../assets/images/wey/lifestyle/4.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-five {
+  background-image: url("../../../assets/images/wey/lifestyle/5.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-six {
+  background-image: url("../../../assets/images/wey/lifestyle/6.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-seven {
+  background-image: url("../../../assets/images/wey/lifestyle/7.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-eight {
+  background-image: url("../../../assets/images/wey/lifestyle/8.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-nine {
+  background-image: url("../../../assets/images/wey/lifestyle/9.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-ten {
+  background-image: url("../../../assets/images/wey/lifestyle/10.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.lifestyle-one-slide-eleven {
+  background-image: url("../../../assets/images/wey/lifestyle/11.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+}
+.containing-full-width {
+  min-height: 500px;
+  margin-top: 30px;
+}
+.youtube-embed-section {
+  min-height: 720px;
+  min-width: 100%;
+}
+.items .des {
+  /* text-transform: uppercase; */
+  font-weight: 900;
+}
+
+.special-location-image-section-cavendish {
+  max-width: 1800px;
+  min-height: 650px;
+  /* margin-top: 30px; */
+  /* margin-left: 60px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  justify-self: center;
+  height: 80vh;
+  width: 70vw;
+  margin: 90px 60px 0 60px;
+  background-image: url("../../../assets/images/cavendish/cavendish-new-map.jpg");
+  /* background-color: #232323; */
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* jvt banners  */
+
+.cavendish-jvt-one-slide-one {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  /* background-image: url("../../../assets/images/cavendish/cavendish-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/cavendish-new-map.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-two {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/jvt-map-1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-three {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/jvt-house.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-four {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/jvt-garden.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-five {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/tennis.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-six {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/yoga.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-seven {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/football.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-eight {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/running.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-nine {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/jvt-4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-ten {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/cricket.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cavendish-jvt-one-slide-eleven {
+  /* background-image: url("../../../assets/images/hadley-heights-map.jpg"); */
+  background-image: url("../../../assets/images/cavendish/jvt/dogs.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

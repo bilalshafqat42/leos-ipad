@@ -1,0 +1,92 @@
+.cavendish-unit-plans-slide-one {
+  background-image: url("../../../../assets/images/cavendish/2d/A-one-bedroom.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  background-color: #fff;
+}
+.cavendish-unit-plans-slide-two {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/one-bedroom-b.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  background-color: #fff;
+}
+.cavendish-unit-plans-slide-three {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/one-bedroom-c.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  background-color: #fff;
+}
+.cavendish-unit-plans-slide-four {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/one-bedroom-d.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  background-color: #fff;
+}
+.cavendish-unit-plans-slide-five {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/one-bedroom-e.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+  height: 650px;
+}
+.cavendish-unit-plans-slide-six {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/studio-a.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+  background-color: #fff;
+}
+.cavendish-unit-plans-slide-seven {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/studio-b.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+  height: 650px;
+}
+.cavendish-unit-plans-slide-eight {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/studio-c.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+  height: 650px;
+}
+.cavendish-unit-plans-slide-nine {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/studio-d.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #fff;
+  height: 650px;
+}
+.cavendish-unit-plans-slide-one {
+  background-image: url("../../../../assets/images/cavendish/2d/A-one-bedroom.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+}
+.cavendish-unit-plans-slide-one {
+  background-image: url("../../../../assets/images/cavendish/new-2d-floor-plans/one-bedroom-a.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 650px;
+}
+
+.cavendish-item .units-plan-content-design {
+  padding: 40px;
+  background-color: #232323;
+  min-width: 350px;
+}

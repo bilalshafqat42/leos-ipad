@@ -1,0 +1,125 @@
+.bottom-navigations-bar {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 99;
+  background-color: #232323;
+  min-width: 100%;
+}
+.mini-navigation-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+ul.left-sidebar-navigation {
+  background-color: none;
+}
+.left-sidebar-navigation ul li {
+  display: none;
+}
+.mini-navigation-bar {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  min-height: 60px;
+  min-width: 100%;
+}
+.navigation-content {
+  min-height: 90px;
+}
+.navigation-content a {
+  color: #fff;
+}
+.icons-section-bottom-navigation {
+  min-height: 10px;
+  margin: 20px 10px;
+  /* margin-bottom: 10px; */
+}
+h4.bottom-navigation-item {
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+h4.bottom-navigation-items {
+  margin: 0 !important;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+h4.bottom-navigation-itemss {
+  margin: 0 !important;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #232323;
+}
+p.small-text {
+  margin: 0 !important;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #232323;
+}
+.left-navigation-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  min-height: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #232323;
+  width: 230px;
+  height: 100vh;
+  display: flex;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  overflow-y: scroll;
+  z-index: -9;
+}
+.right-navigation-menu {
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-end; */
+  min-height: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background-color: #232323;
+  width: 230px;
+  height: 100vh;
+  display: flex;
+  padding-top: 100px;
+  z-index: -9999;
+}
+.mini-navigation-bar-left {
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  min-width: 180px;
+}
+.mini-navigation-bar-left a {
+  background-color: #fff;
+  color: #232323;
+  padding-left: 10px;
+}
+@media only screen and (max-width: 1200px) and (min-width: 990px) {
+}
+@media only screen and (max-width: 980px) and (min-width: 768px) {
+  .left-navigation-menu {
+    /* margin-top: 250px; */
+    overflow-y: scroll;
+  }
+}

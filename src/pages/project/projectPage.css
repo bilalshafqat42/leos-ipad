@@ -1,0 +1,9 @@
+.project-page-section {
+  background-image: url("../../assets/images/mainheader.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.8));
+  /* background-image: url("./assets/images/mainheader.jpg"), */
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}

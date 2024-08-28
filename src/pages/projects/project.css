@@ -1,0 +1,29 @@
+.project-section {
+  background-image: url("../../assets/images/hadley-heights-main-banner-image.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4));
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.projects-banner-images {
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+.special-back-to-home-button {
+  position: absolute;
+  top: 25px;
+  left: 10px;
+  z-index: 999;
+  color: #fff;
+  max-height: 35px;
+  max-width: 35px;
+  border-radius: 50px;
+  margin-top: -10px;
+}
+.projects-banner-images {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
