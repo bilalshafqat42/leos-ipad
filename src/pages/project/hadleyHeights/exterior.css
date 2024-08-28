@@ -525,16 +525,19 @@ h1.page-heading-title {
   margin: 30px;
 }
 .special-location-image-section {
-  max-width: 1800px;
-  min-height: 720px;
-  margin-top: 90px;
-  margin-left: 60px;
+  max-width: 1200px;
+  min-height: 450px;
+  /* margin-top: 90px;
+  margin-left: 60px; */
+  margin: 90px auto;
   display: flex;
   justify-content: center;
   align-items: center;
   align-self: center;
   background-image: url("../../../assets/images/hadley-heights-map.jpg");
   background-color: #232323;
+  background-size: cover;
+  overflow: hidden;
 }
 .single-unit-page-images-section {
   height: 830px;
