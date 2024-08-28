@@ -32,12 +32,13 @@ ul.left-sidebar-navigation {
   color: #fff;
 }
 .icons-section-bottom-navigation {
-  min-height: 10px;
+  /* min-height: 10px; */
+  min-height: 0.5rem;
   margin: 20px 10px;
   /* margin-bottom: 10px; */
 }
 h4.bottom-navigation-item {
-  font-size: 12px;
+  font-size: 0.5rem;
   font-weight: 400;
   text-transform: uppercase;
   text-align: center;

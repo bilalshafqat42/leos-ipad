@@ -20,8 +20,8 @@ const Home = () => {
                 <img
                   src={Logo}
                   alt="Leos International"
-                  width={98}
-                  height={30}
+                  width={70}
+                  height={21}
                   className=""
                 />
               </Link>
