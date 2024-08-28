@@ -535,8 +535,9 @@ h1.page-heading-title {
   align-items: center;
   align-self: center;
   background-image: url("../../../assets/images/hadley-heights-map.jpg");
-  background-color: #232323;
-  background-size: cover;
+  /* background-color: #232323; */
+  background-size: contain;
+  background-repeat: no-repeat;
   overflow: hidden;
 }
 .single-unit-page-images-section {
