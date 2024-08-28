@@ -299,12 +299,14 @@
     height: 650px;
   }
   .containing-full-width {
-    min-height: 500px;
-    margin-top: 90px;
+    /* min-height: 500px; */
+    /* margin-top: 30px; */
+    margin: 30px auto;
   }
   .youtube-embed-section {
-    min-height: 720px;
-    min-width: 100%;
+    min-height: 400px;
+    min-width: 1200px;
+    max-width: 1200px;
   }
   /* .items .des 
   {

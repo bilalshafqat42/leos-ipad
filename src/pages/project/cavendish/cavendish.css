@@ -448,7 +448,7 @@
   height: 650px;
 }
 .containing-full-width {
-  min-height: 500px;
+  /* min-height: 500px; */
   margin-top: 30px;
 }
 .youtube-embed-section {

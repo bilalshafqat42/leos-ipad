@@ -51,7 +51,7 @@ const VirtualTour = () => {
       </div>
       {/* <LeftSidebar /> */}
       <ProjectBottomBar />
-      <div
+      {/* <div
         className="bottom-black-border"
         style={{
           height: "100px",
@@ -62,7 +62,7 @@ const VirtualTour = () => {
           left: "0",
           // zIndex: "999999",
         }}
-      ></div>
+      ></div> */}
     </section>
   );
 };
