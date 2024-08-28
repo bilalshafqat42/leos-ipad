@@ -33,8 +33,8 @@ const HadleyHeights = () => {
               <img
                 src={Logo}
                 alt="Leos International"
-                width={130}
-                height={40}
+                width={98}
+                height={30}
                 className="mt-3 mb-3"
               />
             </Link>
