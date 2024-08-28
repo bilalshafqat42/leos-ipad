@@ -302,6 +302,9 @@
     /* min-height: 500px; */
     /* margin-top: 30px; */
     margin: 30px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .youtube-embed-section {
     min-height: 400px;
