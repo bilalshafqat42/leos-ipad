@@ -31,16 +31,16 @@ const Units = () => {
     <section className="">
       <div className="row">
         <div className="col">
-          <div className="main-mini-heading-section">
-            <Link to="/">
-              <h1 className="mt-4 mb-2 page-heading-title">Units</h1>
-            </Link>
+        <div className="main-mini-heading-sections">
+            <h1 className="mt-2 page-heading-title">
+              <Link to="/">HADLEY HEIGHTS UNITS</Link>
+            </h1>
             <Link to="/">
               <img
                 src={Logo}
                 alt="Leos International"
-                width={130}
-                height={40}
+                width={70}
+                height={21}
                 className="mt-3 mb-3"
               />
             </Link>

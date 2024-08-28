@@ -29,9 +29,18 @@ const Unit = () => {
     <section className="units-page-section-design">
       <div className="row">
         <div className="col">
-          <div className="main-mini-heading-section">
-            <Link to={"/"}>
-              <h1 className="mt-4 mb-2 page-heading-title">Unit</h1>
+        <div className="main-mini-heading-sections">
+            <h1 className="mt-2 page-heading-title">
+              <Link to="/">HADLEY HEIGHTS UNIT PLAN</Link>
+            </h1>
+            <Link to="/">
+              <img
+                src={Logo}
+                alt="Leos International"
+                width={70}
+                height={21}
+                className="mt-3 mb-3"
+              />
             </Link>
           </div>
         </div>
