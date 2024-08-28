@@ -1,10 +1,10 @@
 .containing {
   position: absolute;
-  left: 56%;
+  left: 50%;
   top: 48%;
   transform: translate(-50%, -50%);
   width: 1200px;
-  height: 400px;
+  height: 550px;
   padding: 50px;
   background-color: #f5f5f5;
   box-shadow: 0 30px 50px #dbdbdb;
