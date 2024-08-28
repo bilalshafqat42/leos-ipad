@@ -301,7 +301,7 @@
   .containing-full-width {
     /* min-height: 500px; */
     /* margin-top: 30px; */
-    margin: 0 auto;
+    margin: 30px auto;
     display: flex;
     align-items: center;
     justify-content: center;
