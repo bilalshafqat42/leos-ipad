@@ -13,7 +13,7 @@ const Home = () => {
         <div className="row">
           <div className="col">
             <div className="main-mini-heading-sections">
-              <h1 className="mt-4 mb-2 page-heading-title">
+              <h1 className="page-heading-title">
                 <Link to="/">LEOS PROJECTS</Link>
               </h1>
               <Link to="/">
@@ -22,7 +22,7 @@ const Home = () => {
                   alt="Leos International"
                   width={98}
                   height={30}
-                  className="mt-3 mb-3"
+                  className=""
                 />
               </Link>
             </div>
@@ -32,7 +32,10 @@ const Home = () => {
       <div className="row">
         <div className="col">
           <div className="home-page-image-section">
-            <img src="../../assets/images/partnership-banner.jpg" className="main-banner-iamges-classes"/>
+            <img
+              src="../../assets/images/partnership-banner.jpg"
+              className="main-banner-iamges-classes"
+            />
           </div>
         </div>
       </div>

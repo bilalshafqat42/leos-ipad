@@ -21,10 +21,10 @@ const Amenities = () => {
       {/* <div className="container-fluid"> */}
       <div className="row">
         <div className="col">
-          <div className="main-mini-heading-section">
-            <Link to={"/"}>
-              <h1 className="mt-4 mb-2 page-heading-title">Amenities</h1>
-            </Link>
+        <div className="main-mini-heading-sections">
+            <h1 className="mt-2 page-heading-title">
+              <Link to="/">HADLEY HEIGHTS AMENITIES</Link>
+            </h1>
             <Link to="/">
               <img
                 src={Logo}

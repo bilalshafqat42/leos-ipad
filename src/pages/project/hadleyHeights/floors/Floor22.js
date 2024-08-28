@@ -32,18 +32,16 @@ const Floor22 = () => {
       {/* <div className="container-fluid"> */}
       <div className="row">
         <div className="col">
-          <div className="main-mini-heading-section">
-            <Link to="/">
-              <h1 className="mt-4 mb-2 page-heading-title">
-                Hadley Heights Page
-              </h1>
-            </Link>
+        <div className="main-mini-heading-sections">
+            <h1 className="mt-2 page-heading-title">
+              <Link to="/">HADLEY HEIGHTS 22TH FLOOR</Link>
+            </h1>
             <Link to="/">
               <img
                 src={Logo}
                 alt="Leos International"
-                width={130}
-                height={40}
+                width={98}
+                height={30}
                 className="mt-3 mb-3"
               />
             </Link>

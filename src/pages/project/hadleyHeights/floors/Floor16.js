@@ -33,18 +33,16 @@ const Floor16 = () => {
       {/* <div className="container-fluid"> */}
       <div className="row">
         <div className="col">
-          <div className="main-mini-heading-section">
-            <Link to="/">
-              <h1 className="mt-4 mb-2 page-heading-title">
-                Hadley Heights Page
-              </h1>
-            </Link>
+        <div className="main-mini-heading-sections">
+            <h1 className="mt-2 page-heading-title">
+              <Link to="/">HADLEY HEIGHTS 16TH FLOOR</Link>
+            </h1>
             <Link to="/">
               <img
                 src={Logo}
                 alt="Leos International"
-                width={130}
-                height={40}
+                width={98}
+                height={30}
                 className="mt-3 mb-3"
               />
             </Link>
@@ -99,7 +97,7 @@ const Floor16 = () => {
       {/* <LeftSidebar /> */}
       <div className="left-navigation-menu units-section-sidebars">
         <div className="row gx-2 m-1">
-          {firstFloors.slice(120, 130).map((firstFloor, index) => (
+          {firstFloors.slice(140, 150).map((firstFloor, index) => (
             <div className="col-6">
               <Link
                 to={`/projects/hadley-heights/units/${firstFloor.id}`}
