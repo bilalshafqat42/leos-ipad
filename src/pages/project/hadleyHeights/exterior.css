@@ -364,6 +364,7 @@
   min-height: 450px;
   box-shadow: none;
   z-index: 9;
+  overflow: hidden;
 }
 .items:nth-child(3) {
   left: 65%;
