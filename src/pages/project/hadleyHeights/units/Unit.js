@@ -6,6 +6,8 @@ import { Link } from "react-router-dom";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import Logo from "../../../../assets/images/logo.png";
+
 
 const Unit = () => {
   const { id } = useParams();
