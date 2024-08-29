@@ -389,7 +389,7 @@
   color: #eee;
   transform: translate(0, -50%);
   display: none;
-  font-family: system-ui;
+  font-family: "Poppins", sans-serif;
 }
 .items:nth-child(2) .content {
   display: block;
@@ -489,6 +489,8 @@ h1.page-heading-title {
   padding: 40px;
   background-color: #232323;
   min-width: 400px;
+  font-size: 0.7rem;
+  font-weight: 300;
 }
 .floor-plans-banners .items button {
   background-color: #c4a564;
