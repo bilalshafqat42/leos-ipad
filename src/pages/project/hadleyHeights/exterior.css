@@ -381,9 +381,9 @@
 }
 .items .content {
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 100px;
-  width: 350px;
+  width: 150px;
   text-align: left;
   padding: 0;
   color: #eee;
