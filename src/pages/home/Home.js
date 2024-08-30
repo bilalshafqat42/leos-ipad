@@ -7,10 +7,6 @@ import { Link } from "react-router-dom";
 import "../project/hadleyHeights/exterior.css";
 
 const Home = () => {
-
-
-
-
   return (
     <div className="main-page-banner">
       <div className="home-page-topbar">
