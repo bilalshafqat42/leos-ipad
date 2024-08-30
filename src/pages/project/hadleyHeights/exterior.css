@@ -515,70 +515,80 @@
   background-size: cover;
 }
 .exterior-one-slide-one-unit-3 {
-  background-image: url("../../../assets/images/hadley/3d/3-Customisable-with-study-&-gym.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/3-Customisable-with-study-&-gym.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-4 {
-  background-image: url("../../../assets/images/hadley/3d/4-Customisable-with-study-&-gym_2.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/4-Customisable-with-study-&-gym_2.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-5 {
-  background-image: url("../../../assets/images/hadley/3d/5-bed-with-movie-room.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/5-bed-with-movie-room.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-6 {
-  background-image: url("../../../assets/images/hadley/floor-plans/Unit06.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit06.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-7 {
-  background-image: url("../../../assets/images/hadley/floor-plans/Unit07.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit07.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-8 {
-  background-image: url("../../../assets/images/hadley/floor-plans/Unit08.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit08.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-9 {
-  background-image: url("../../../assets/images/hadley/floor-plans/Unit09.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit09.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-10 {
-  background-image: url("../../../assets/images/hadley/floor-plans/Unit10.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/floor-plans/Unit10.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-3d-1 {
-  background-image: url("../../../assets/images/hadley/3d/1-Studio.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/1-Studio.jpg");
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: right;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 .exterior-one-slide-one-unit-3d-2 {
-  background-image: url("../../../assets/images/hadley/3d/2-1-Bedroom.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/2-1-Bedroom.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-3d-3 {
-  background-image: url("../../../assets/images/hadley/3d/3-Customisable-with-study-&-gym.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/3-Customisable-with-study-&-gym.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-3d-4 {
-  background-image: url("../../../assets/images/hadley/3d/4-Customisable-with-study-&-gym_2.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/4-Customisable-with-study-&-gym_2.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .exterior-one-slide-one-unit-3d-5 {
-  background-image: url("../../../assets/images/hadley/3d/5-bed-with-movie-room.jpg"); background-position: center;
+  background-image: url("../../../assets/images/hadley/3d/5-bed-with-movie-room.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
