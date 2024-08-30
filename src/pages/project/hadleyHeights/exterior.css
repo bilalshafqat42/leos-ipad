@@ -31,8 +31,10 @@
   left: 50%;
   top: 48%;
   transform: translate(-50%, -50%);
-  width: 900px;
-  height: 398px;
+  /* width: 900px;
+  height: 398px; */
+  width: 600px;
+  height: 265px;
   padding: 50px;
   background-color: #fff;
   box-shadow: 0 30px 50px #dbdbdb;
