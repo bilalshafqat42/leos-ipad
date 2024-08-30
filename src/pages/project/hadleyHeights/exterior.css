@@ -381,9 +381,9 @@
 }
 .items .content {
   position: absolute;
-  top: 20%;
-  left: 100px;
-  width: 200px;
+  top: 10%;
+  left: 150px;
+  width: 150px;
   text-align: left;
   padding: 0;
   color: #eee;
@@ -497,7 +497,7 @@ h1.page-heading-title {
   padding: 40px;
   background-color: #232323;
   min-width: 400px;
-  font-size: 0.7rem;
+  font-size: 0.5rem;
   font-weight: 300;
 }
 .floor-plans-banners .items button {
