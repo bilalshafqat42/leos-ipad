@@ -598,7 +598,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+.content {
+  height: 400px;
+}
 /* amenities images ends here  */
 #slide {
   width: max-content;
