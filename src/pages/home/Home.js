@@ -35,6 +35,7 @@ const Home = () => {
             <img
               src="../../assets/images/partnership-banner.jpg"
               className="main-banner-iamges-classes"
+              alt="home page"
             />
           </div>
         </div>

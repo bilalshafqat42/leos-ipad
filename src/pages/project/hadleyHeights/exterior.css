@@ -381,7 +381,7 @@
 }
 .items .content {
   position: absolute;
-  top: 25%;
+  top: 20%;
   left: 100px;
   width: 200px;
   text-align: left;
@@ -440,7 +440,7 @@
 }
 .buttons button {
   width: 40px;
-  height: 40px;
+  height: 45px;
   border: 0px solid #555;
   transition: 0.5s;
 }
