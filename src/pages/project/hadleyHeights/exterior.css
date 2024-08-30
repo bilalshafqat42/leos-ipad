@@ -439,8 +439,8 @@
   width: 100%;
 }
 .buttons button {
-  width: 70px;
-  height: 70px;
+  width: 40px;
+  height: 40px;
   border: 0px solid #555;
   transition: 0.5s;
 }
