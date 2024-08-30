@@ -103,9 +103,9 @@ p.small-text {
   bottom: 0;
   background-color: #232323;
   width: 180px;
-  height: 100vh;
+  height: 100%;
   display: flex;
-  padding-top: 100px;
+  padding-top: 200px;
   z-index: -9999;
 }
 .mini-navigation-bar-left {

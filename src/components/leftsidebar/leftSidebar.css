@@ -6,6 +6,7 @@
   width: 230px;
   height: 100%;
   display: flex;
+  padding-top: 70px;
 }
 ul.left-sidebar-navigation {
   display: flex;
