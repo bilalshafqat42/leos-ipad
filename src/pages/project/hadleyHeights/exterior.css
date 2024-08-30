@@ -381,9 +381,9 @@
 }
 .items .content {
   position: absolute;
-  top: 30%;
+  top: 25%;
   left: 100px;
-  width: 150px;
+  width: 200px;
   text-align: left;
   padding: 0;
   color: #eee;
@@ -432,7 +432,7 @@
 }
 .buttons {
   position: absolute;
-  bottom: 0px;
+  bottom: -5px;
   left: 0px;
   z-index: 222222;
   text-align: left;
@@ -447,6 +447,12 @@
 .buttons button:hover {
   background-color: #232323;
   color: #fff;
+}
+.buttons button i {
+  font-size: 0.7rem;
+}
+.buttons button#prev {
+  margin-right: 1px;
 }
 
 .main-mini-heading-section {
