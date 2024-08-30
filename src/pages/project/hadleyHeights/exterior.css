@@ -397,7 +397,7 @@
 }
 .items .name {
   font-size: 1.5rem;
-  line-height: 1.5rem;
+  line-height: 1.8rem;
   font-weight: bold;
   opacity: 0;
   animation: showcontent 1s ease-in-out 1 forwards;
