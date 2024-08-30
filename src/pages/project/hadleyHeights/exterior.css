@@ -396,8 +396,8 @@
   z-index: 11111;
 }
 .items .name {
-  font-size: 2.5rem;
-  line-height: 40px;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
   font-weight: bold;
   opacity: 0;
   animation: showcontent 1s ease-in-out 1 forwards;
