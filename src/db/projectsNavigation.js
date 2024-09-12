@@ -19,11 +19,11 @@ export const projectsNavigations = [
     imageURL: "../../assets/images/weybridge-garden-2.png",
     link: "/projects/weybridge-gardens-2",
   },
-  {
-    title: "KNIGHTSBRIDGE",
-    imageURL: "../../assets/images/knightsBridge-project.png",
-    link: "/projects/knightsbridge",
-  },
+  // {
+  //   title: "KNIGHTSBRIDGE",
+  //   imageURL: "../../assets/images/knightsBridge-project.png",
+  //   link: "/projects/knightsbridge",
+  // },
   // {
   //   title: "Number 6",
   //   imageURL: "../../assets/images/image-carousel6.jpg",
